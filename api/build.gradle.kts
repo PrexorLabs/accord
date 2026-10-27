@@ -13,7 +13,7 @@ java {
     }
 }
 
-// Servers still run 1.8.8 on Java 8, so the API is compiled for Java 8 (ADR 0048).
+// Many PvP servers still run 1.8.8 on Java 8, so the API is compiled for Java 8.
 tasks.compileJava {
     options.release = 8
     // javac warns that Java 8 is obsolete; for this API that is the point.
