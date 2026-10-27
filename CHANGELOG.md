@@ -1,7 +1,7 @@
 # Changelog
 
-All notable changes to the Prexor SDK are documented here.
+All notable changes to Accord are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
-and the SDK follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+and Accord follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]

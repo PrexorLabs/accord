@@ -4,7 +4,7 @@ plugins {
 
 group = "dev.prexorlabs"
 version = "0.1.0"
-base.archivesName = "prexor-api"
+base.archivesName = "accord-api"
 
 java {
     withSourcesJar()
